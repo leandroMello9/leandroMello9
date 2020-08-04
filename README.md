@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
---><img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+--><img width="auto" src="https://sujeitoprogramador.com/wp-content/uploads/2019/04/react.png">
 
 
 # Leandro de Melo
