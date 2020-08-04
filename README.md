@@ -29,6 +29,6 @@ Sou um FullStack Developer stack JavaScript :computer:
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games LeagueOfLegends
  <br/> :email: &nbsp; Entre em contato comigo por e-mail: leandromeloprofissional@gmail.com
- <br/> :linkedin: &nbsp; Meu linkedin: https://www.linkedin.com/in/leandro-mello-7a6777192/
+ <br/> Meu linkedin: https://www.linkedin.com/in/leandro-mello-7a6777192/
 | 
 
