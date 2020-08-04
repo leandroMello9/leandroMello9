@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 # Leandro de Melo
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas do dia a dia utilizando a programação.
-Sou um FullStack Developer stack JavaScript :computer:
+Sou apaixonado por resolver problemas do dia a dia utilizando a programação. :heartpulse:
+:computer: Sou um FullStack Developer focado na stack JavaScript 
 
  
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando ReactJS e ReactNative
