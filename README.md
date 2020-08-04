@@ -30,5 +30,5 @@ Sou um FullStack Developer stack JavaScript :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games LeagueOfLegends
  <br/> :email: &nbsp; Entre em contato comigo por e-mail: leandromeloprofissional@gmail.com
  <br/> Meu linkedin: https://www.linkedin.com/in/leandro-mello-7a6777192/
-| 
+
 
