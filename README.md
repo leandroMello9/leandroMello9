@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 # Leandro de Melo
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas do dia a dia utilizando a programação. :heartpulse:
+Sou apaixonado por resolver problemas do dia a dia utilizando a programação. :heartpulse
+<br/>
 :computer: Sou um FullStack Developer focado na stack JavaScript 
 
  
