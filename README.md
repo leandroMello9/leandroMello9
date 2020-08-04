@@ -13,4 +13,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+--><img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+
+
+# Leandro de Melo
+
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas do dia a dia utilizando a programação.
+Sou um FullStack Developer stack JavaScript :computer:
+
+ 
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando ReactJS e ReactNative
+ <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games LeagueOfLegends
+ <br/> :email: &nbsp; Entre em contato comigo por e-mail: leandromeloprofissional@gmail.com
+ <br/> :linkedin: &nbsp; Meu linkedin: https://www.linkedin.com/in/leandro-mello-7a6777192/
+| 
+
