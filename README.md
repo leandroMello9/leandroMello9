@@ -23,6 +23,6 @@ Sou apaixonado em aprender coisas novas, em passar por desafios e por resolver p
  Sobre mim: Curto tecnologias, games LeagueOfLegends
  <br/> :email: &nbsp; Entre em contato comigo por e-mail: leandromeloprofissional@gmail.com
   <br/>
- <img width="30" heigth="30" src="https://ik.imagekit.io/jbqhfxwn5t/kisspng-linkedin-logo-computer-icons-business-symbol-linkedin-icon-5ab176563be596.8497903315215796062453_Zu_eK7wpdZ-.jpg"/> Meu linkedin: https://www.linkedin.com/in/leandro-mello-7a6777192/
+ <img width="20" heigth="20" src="https://ik.imagekit.io/jbqhfxwn5t/kisspng-linkedin-logo-computer-icons-business-symbol-linkedin-icon-5ab176563be596.8497903315215796062453_Zu_eK7wpdZ-.jpg"/> Meu linkedin: https://www.linkedin.com/in/leandro-mello-7a6777192/
 
 
