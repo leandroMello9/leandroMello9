@@ -16,7 +16,7 @@ Sou apaixonado em aprender coisas novas, em passar por desafios e por resolver p
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando ReactJS e ReactNative
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games LeagueOfLegends
+ <br/> <img src="https://ik.imagekit.io/jbqhfxwn5t/tumblr_n82wcrEHTy1sibomdo3_400_NQYQ4xb4u4.gif" width="50" heigth="50"/> 💬  &nbsp; Sobre mim: Curto tecnologias, games LeagueOfLegends
  <br/> :email: &nbsp; Entre em contato comigo por e-mail: leandromeloprofissional@gmail.com
  <br/> Meu linkedin: https://www.linkedin.com/in/leandro-mello-7a6777192/
 
