@@ -2,7 +2,7 @@
 
 
 
---><img width="auto" src="https://ik.imagekit.io/jbqhfxwn5t/source_gJWeGYxf3j.gif">
+--><img align="center" width="auto" src="https://ik.imagekit.io/jbqhfxwn5t/source_gJWeGYxf3j.gif">
 
 
 # Leandro de Melo
