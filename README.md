@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-  <img align="center" width="auto" src="https://ik.imagekit.io/jbqhfxwn5t/source_gJWeGYxf3j.gif">
+  <img align="center" width="auto" src="https://ik.imagekit.io/jbqhfxwn5t/BestMeagerHoki-small_B6Z8Fu3mGo.gif">
 </h1>
 
 
