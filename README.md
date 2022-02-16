@@ -15,9 +15,9 @@ Sou apaixonado em aprender coisas novas, em passar por desafios e por resolver p
 :computer: Sou um FullStack Developer. 
 
  
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos de tecnologias
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos de tecnologia
  <br/> :blush: &nbsp; Posso te ajudar com CSS, Grid Layout, Flexbox e API restful em geral.
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Typescript, Angular JS, Flutter, Python
  <br/>
  <img src="https://ik.imagekit.io/jbqhfxwn5t/tumblr_n82wcrEHTy1sibomdo3_400_NQYQ4xb4u4.gif" width="20" heigth="20"/> 💬  &nbsp; 
  Sobre mim: Curto tecnologias, games Pristontale e League Of Legends
