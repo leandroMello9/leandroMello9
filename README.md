@@ -10,13 +10,13 @@
 # Leandro de Melo
 
 ## Olá pessoal 👋
-Sou apaixonado em aprender coisas novas, em passar por desafios e por resolver problemas do dia a dia utilizando a programação.:heart:
+.:heart:
 <br/>
 :computer: FullStack Developer. 
 
  
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos de tecnologia
- <br/> :blush: &nbsp; Posso te ajudar com CSS, Grid Layout, Flexbox e API restful em geral.
+ <br/> :blush: &nbsp; Posso te ajudar com Java Script, Java, Kotlin.
  <br/> :computer: &nbsp; Minha stack: Java, SpringBoot, ReactJS, Node.js, React Native, Typescript, Angular JS, Python
  <br/>
  <img src="https://ik.imagekit.io/jbqhfxwn5t/tumblr_n82wcrEHTy1sibomdo3_400_NQYQ4xb4u4.gif" width="20" heigth="20"/> 💬  &nbsp; 
